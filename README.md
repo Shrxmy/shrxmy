@@ -17,7 +17,7 @@
 Name: Paulo Tumabing
 Location: Philippines 🇵🇭
 Education: B.S. Computer Science Specializing in Data Science — University of Santo Tomas
-Focus: Full-Stack Web Development | Software Engineering
+Focus: Full-Stack Web Development | Software Engineering | Data Engineering/Warehousing
 ```
 
 I'm a Computer Science student at the **University of Santo Tomas** with hands-on experience building **full-stack web applications**, **backend services**, and **automation tools**. I work across the stack with technologies like **React**, **Next.js**, **Django**, and **Flask**, and I'm passionate about writing clean, scalable code. I'm actively seeking opportunities to grow as a software developer and contribute to impactful projects.
