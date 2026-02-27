@@ -16,7 +16,7 @@
 ```yaml
 Name: Paulo Tumabing
 Location: Philippines 🇵🇭
-Education: B.S. Computer Science — University of Santo Tomas
+Education: B.S. Computer Science Specializing in Data Science — University of Santo Tomas
 Focus: Full-Stack Web Development | Software Engineering
 ```
 
