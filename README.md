@@ -22,8 +22,23 @@ Computer Science student and software developer based in the Philippines. I buil
 
 ## Technical stack
 
-| Area | Technologies |
-| --- | --- |
-| **Languages** | TypeScript · JavaScript · Python · Java · R · SQL · HTML · CSS |
-| **Frameworks** | React · Next.js · Django · Flask · Three.js · Chakra UI · Framer Motion |
-| **Tools** | Git · Docker · PostgreSQL · Node.js |
+<div align="center">
+  <table>
+    <tr>
+      <th align="center">Area</th>
+      <th align="center">Technologies</th>
+    </tr>
+    <tr>
+      <td align="center"><strong>Languages</strong></td>
+      <td align="center">TypeScript · JavaScript · Python · Java · R · SQL · HTML · CSS</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Frameworks</strong></td>
+      <td align="center">React · Next.js · Django · Flask · Three.js · Chakra UI · Framer Motion</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Tools</strong></td>
+      <td align="center">Git · Docker · PostgreSQL · Node.js</td>
+    </tr>
+  </table>
+</div>
