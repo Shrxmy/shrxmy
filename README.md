@@ -15,10 +15,10 @@
 
 ## About
 
-Computer Science student and software developer based in the Philippines. I build full-stack applications and work across software engineering, data engineering, and applied machine learning.
+Computer Science student and software developer based in the Philippines. I build full-stack applications and work across software engineering, emulator development, data engineering, and applied machine learning.
 
 - **Education:** B.S. Computer Science, specializing in Data Science — University of Santo Tomas
-- **Focus:** Full-stack development, software engineering, data engineering, and data warehousing
+- **Focus:** Full-stack development, emulator development, software engineering, data engineering, and data warehousing
 
 ## Technical stack
 
