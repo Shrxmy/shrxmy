@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/Shrxmy.png?size=96" width="88" height="88" alt="Paulo Tumabing" />
   <h1>Paulo Tumabing</h1>
-  <p>Software developer · Computer Science student · Data enthusiast</p>
+  <p><strong>Software developer</strong> · Computer Science student · Data enthusiast</p>
+  <p><em>Building practical software and data-driven systems.</em></p>
   <p>
     <a href="https://www.linkedin.com/in/paulo-tumabing/"><img src="https://img.shields.io/badge/LinkedIn-20C997?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://github.com/Shrxmy"><img src="https://img.shields.io/badge/GitHub-20C997?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -28,7 +28,7 @@ Computer Science student and software developer based in the Philippines. I buil
 
 ## GitHub
 
-[Browse my repositories and activity →](https://github.com/Shrxmy)
+[Browse my repositories →](https://github.com/Shrxmy?tab=repositories)
 
 ## Contact
 
