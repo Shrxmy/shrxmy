@@ -1,15 +1,17 @@
 <div align="center">
-  <h1>Paulo Tumabing</h1>
+  <img src="./assets/profile-intro.gif" width="680" alt="Paulo Tumabing — software, data, and systems" />
   <p><strong>Software developer</strong> · Computer Science student · Data enthusiast</p>
   <p><em>Building practical software and data-driven systems.</em></p>
-  <p>
-    <a href="https://www.linkedin.com/in/paulo-tumabing/"><img src="https://img.shields.io/badge/LinkedIn-20C997?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/Shrxmy"><img src="https://img.shields.io/badge/GitHub-20C997?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://github.com/Shrxmy"><img src="https://img.shields.io/github/followers/Shrxmy?style=flat-square&label=followers&color=20C997" alt="GitHub followers" /></a>
-  </p>
 </div>
 
 ---
+
+## Contact
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/paulo-tumabing/"><img src="https://img.shields.io/badge/LinkedIn-20C997?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://steamcommunity.com/id/shrxmy/"><img src="https://img.shields.io/badge/Steam-20C997?style=flat-square&logo=steam&logoColor=white" alt="Steam" /></a>
+</div>
 
 ## About
 
@@ -25,11 +27,3 @@ Computer Science student and software developer based in the Philippines. I buil
 | **Languages** | TypeScript · JavaScript · Python · Java · R · SQL · HTML · CSS |
 | **Frameworks** | React · Next.js · Django · Flask · Three.js · Chakra UI · Framer Motion |
 | **Tools** | Git · Docker · PostgreSQL · Node.js |
-
-## GitHub
-
-[Browse my repositories →](https://github.com/Shrxmy?tab=repositories)
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/paulo-tumabing/) · [GitHub](https://github.com/Shrxmy) · [Steam](https://steamcommunity.com/id/shrxmy/)
