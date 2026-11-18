@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="./assets/profile-intro.gif" width="680" alt="Paulo Tumabing — software, data, and systems" />
-  <p><strong>Software developer</strong> · Computer Science student · Data enthusiast</p>
+  <img src="./assets/banner.svg" width="100%" alt="Pixel aurora with a mushroom" />
+  <br /><br />
+  <h1>Paulo Tumabing</h1>
+  <p>Software developer · Computer Science student · Data enthusiast</p>
   <p><em>Building practical software and data-driven systems.</em></p>
 </div>
 
@@ -11,6 +13,8 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/paulo-tumabing/"><img src="https://img.shields.io/badge/LinkedIn-20C997?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://steamcommunity.com/id/shrxmy/"><img src="https://img.shields.io/badge/Steam-20C997?style=flat-square&logo=steam&logoColor=white" alt="Steam" /></a>
+  <a href="mailto:joevannipaulo0425.tumabing@gmail.com"><img src="https://img.shields.io/badge/Email-20C997?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/luxetewiz%20%2F%20shrxmy-20C997?style=flat-square&logo=discord&logoColor=white" alt="Discord: luxetewiz / shrxmy" />
 </div>
 
 ## About
